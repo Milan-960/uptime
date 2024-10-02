@@ -7,8 +7,6 @@ sites:
     url: https://www.milansachani.dev/
   - name: Milan blog
     url: https://blog.milansachani.dev/
-  - name: IPv6 test
-    url: forwardemail.net
     port: 80
     check: "tcp-ping"
     ipv6: true
