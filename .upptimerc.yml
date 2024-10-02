@@ -6,7 +6,7 @@ sites:
   - name: Milan Portfolio
     url: https://www.milansachani.dev/
   - name: Milan blog
-    url: https://www.blog.milansachani.dev/
+    url: https://blog.milansachani.dev/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
