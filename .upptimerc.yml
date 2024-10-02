@@ -4,9 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Milan Portfolio
-    url: https://www.milansachani.dev/
+    url: https://www.milansachani.dev
   - name: Milan blog
-    url: https://blog.milansachani.dev/
+    url: https://blog.milansachani.dev
     port: 80
     check: "tcp-ping"
     ipv6: true
