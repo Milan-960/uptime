@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -22,37 +22,19 @@
     "url": "https://blog.milansachani.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.milansachani.dev.ico",
     "slug": "milan-blog",
-    "status": "up",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "status": "down",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 172,
     "timeDay": 172,
     "timeWeek": 172,
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-10-02": 6
+      "2024-10-02": 23
     }
-  },
-  {
-    "name": "IPv6 test",
-    "url": "forwardemail.net",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
   }
 ]
