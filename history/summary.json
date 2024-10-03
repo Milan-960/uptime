@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.milansachani.dev.ico",
     "slug": "milan-portfolio",
     "status": "up",
-    "uptime": "35.44%",
-    "uptimeDay": "35.44%",
-    "uptimeWeek": "35.44%",
-    "uptimeMonth": "35.44%",
-    "uptimeYear": "35.44%",
-    "time": 344,
-    "timeDay": 344,
-    "timeWeek": 344,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "uptime": "64.21%",
+    "uptimeDay": "64.21%",
+    "uptimeWeek": "64.21%",
+    "uptimeMonth": "64.21%",
+    "uptimeYear": "64.21%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2024-10-02": 266
     }
@@ -36,7 +36,8 @@
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-10-02": 412
+      "2024-10-03": 16,
+      "2024-10-02": 728
     }
   }
 ]
