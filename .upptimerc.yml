@@ -6,10 +6,7 @@ sites:
   - name: Milan Portfolio
     url: https://www.milansachani.dev
   - name: Milan blog
-    url: https://blog.milansachani.dev
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    url: https://blog.milansachani.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
