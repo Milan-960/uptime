@@ -8,7 +8,7 @@ sites:
   - name: Milan blog
     url: https://blog.milansachani.dev
   - name: Bingo Game
-    url: https://bingo-apps.vercel.app
+    url: https://bingo.milansachani.dev
   - name: Moonlight Movie
     url: https://moonlight-film.vercel.app
 
