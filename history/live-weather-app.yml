@@ -1,7 +1,7 @@
 url: https://live-weather-app-pwa.netlify.app
-status: up
-code: 200
-responseTime: 96
-lastUpdated: 2024-10-09T11:53:31.271Z
+status: down
+code: 500
+responseTime: 48
+lastUpdated: 2024-10-09T13:15:18.827Z
 startTime: 2024-10-09T11:53:31.169Z
 generator: Upptime <https://github.com/upptime/upptime>
