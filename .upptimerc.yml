@@ -17,6 +17,10 @@ sites:
     url: https://nestjs-server-member.vercel.app
   - name: Img Text generator
     url: https://img-text-generators.netlify.app
+  - name: Live Weather app
+    url: https://live-weather-app-pwa.netlify.app
+  - name: Stone Paper Scissors Game
+    url: https://stone-papers-scissors.netlify.app
   - name: Astro Starter Kit Blog
     url: https://astro-starter-kits.vercel.app
   - name: Cryptoverse
