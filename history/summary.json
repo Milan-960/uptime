@@ -96,7 +96,7 @@
   },
   {
     "name": "Nestjs Swagger API",
-    "url": "https://nestjs-server-member.vercel.app/",
+    "url": "https://nestjs-server-member.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/nestjs-server-member.vercel.app.ico",
     "slug": "nestjs-swagger-api",
     "status": "up",
@@ -146,6 +146,24 @@
     "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 153,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Cryptoverse",
+    "url": "https://thecrypoverse.netlify.app",
+    "icon": "https://icons.duckduckgo.com/ip3/thecrypoverse.netlify.app.ico",
+    "slug": "cryptoverse",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   }
 ]
