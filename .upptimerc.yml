@@ -14,11 +14,13 @@ sites:
   - name: Nodejs Swagger API
     url: https://nodejs-swagger-api.vercel.app
   - name: Nestjs Swagger API
-    url: https://nestjs-server-member.vercel.app/
+    url: https://nestjs-server-member.vercel.app
   - name: Img Text generator
     url: https://img-text-generators.netlify.app
   - name: Astro Starter Kit Blog
     url: https://astro-starter-kits.vercel.app
+  - name: Cryptoverse
+    url: https://thecrypoverse.netlify.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
