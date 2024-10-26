@@ -10,7 +10,7 @@ sites:
   - name: Bingo Game
     url: https://bingo.milansachani.dev
   - name: Moonlight Movie
-    url: https://moonlight-film.vercel.app
+    url: https://moonlight.milansachani.dev
   - name: Nodejs Swagger API
     url: https://nodejs-swagger-api.vercel.app
   - name: Nestjs Swagger API
