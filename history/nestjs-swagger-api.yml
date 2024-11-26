@@ -1,7 +1,7 @@
 url: https://nestjs-server-member.vercel.app
-status: down
-code: 500
-responseTime: 16224
-lastUpdated: 2024-11-26T06:01:14.626Z
+status: up
+code: 200
+responseTime: 4063
+lastUpdated: 2024-11-26T06:12:07.061Z
 startTime: 2024-10-09T11:48:52.051Z
 generator: Upptime <https://github.com/upptime/upptime>
