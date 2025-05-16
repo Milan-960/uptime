@@ -14,14 +14,14 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 name: Static Site CI
-
 on:
   schedule:
     - cron: "0 1 * * *"
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   release:
     name: Build and deploy site
@@ -32,20 +32,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}
-
       - name: Generate site
         uses: upptime/uptime-monitor@v1.38.0
         with:
           command: "site"
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-
+          GH_PAT: ${{ secrets.GH_PAT }}  # Keep for Upptime-specific actions
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
-          github_token: ${{ secrets.GH_PAT || github.token }}
+          github_token: ${{ github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: false
           user_name: "Upptime Bot"
